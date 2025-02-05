@@ -1,4 +1,21 @@
 {
+"lives": [
+    {
+      "name": "SAO0",
+      "type": 0,
+      "url": "https://ghproxy.net/https://github.com/tjy0320/123/blob/main/1.json",
+      "playerType": 1,
+      "ua": "okhttp/3.15"
+    },
+    {
+      "name": "IPV6",
+      "type": 0,
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15"
+    }
+  ],
+  
   "sites": [
     {
       "key": "drpy_js_豆瓣",
